@@ -1,0 +1,24 @@
+[[package]]
+name = "argparse"
+version = "1.4.0"
+description = "Python command-line parsing library"
+category = "main"
+optional = false
+python-versions = "*"
+
+[[package]]
+name = "pyyaml"
+version = "6.0"
+description = "YAML parser and emitter for Python"
+category = "main"
+optional = false
+python-versions = ">=3.6"
+
+[metadata]
+lock-version = "1.1"
+python-versions = "^3.8"
+content-hash = "b9584cf5528f8ecaf98b054dd5689b022942ba580bae3da152d64341a0231a80"
+
+[metadata.files]
+argparse = []
+pyyaml = []
